@@ -11,8 +11,10 @@ Note: this (and IPython itself) requires setuptools installed.
 Other dependencies needed:
 
 `$ pip install plotly`  
-or:  
-`$ easy_install plotly`
+`$ pip install numpy`  
+`$ pip install pandas`  
+
+
 
 You will also need a plotly account to generate graphs. This can be setup at https://plot.ly
 
