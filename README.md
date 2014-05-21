@@ -14,8 +14,6 @@ Other dependencies needed:
 `$ pip install numpy`  
 `$ pip install pandas`  
 
-
-
 You will also need a plotly account to generate graphs. This can be setup at https://plot.ly
 
 To run the notebook, open a terminal and type:  
